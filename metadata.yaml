@@ -1,4 +1,8 @@
 _repo: Iconoclasts-A-Book-of-Dramatists-Ibsen-Strindberg-Becque-Hauptmann-Sudermann-Hervieu-Gorky-Du__47546
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47546-h/images/huneker_iconoclast_cover.jpg
 creator:
   author:
     agent_name: Huneker, James
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1597
     wikipedia: http://en.wikipedia.org/wiki/James_Huneker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47546#Iconoclasts-A-Book-of-Dramatists-Ibsen-Strindberg-Becque-Hauptmann-Sudermann-Hervieu-Gorky-Du_
 gutenberg_issued: '2014-12-06'
 gutenberg_type: Text
 identifiers:
